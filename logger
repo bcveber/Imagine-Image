@@ -1,0 +1,202 @@
+TBConcat: about to update input1
+LRConcat: about to update input1
+TBConcat: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Rotate: about to update input1
+Rotate: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Blur: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Blur: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+Blur: about to update input1
+Rotate: about to update input1
+Rotate: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Rotate: done updating input1
+Rotate: about to execute
+Rotate: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Subtract: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Subtract: done updating input1
+Subtract: about to update input2
+PNMreader: about to execute
+PNMreader: done executing
+Subtract: done updating input2
+Subtract: about to execute
+Subtract: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Mirror: about to update input1
+Subtract: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Subtract: done updating input1
+Subtract: about to update input2
+PNMreader: about to execute
+PNMreader: done executing
+Subtract: done updating input2
+Subtract: about to execute
+Subtract: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+TBConcat: about to update input1
+LRConcat: about to update input1
+Grayscale: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Color: about to execute
+Color: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Color: about to execute
+Color: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Blur: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Blur: done updating input1
+Blur: about to execute
+Blur: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input2
+TBConcat: about to execute
+TBConcat: done executing
